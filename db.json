@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Andres Ganteng Banget",
+      "email": "Andres@gmail.com",
+      "phone": "827489374893",
+      "id": 1
+    },
+    {
+      "name": "Andres",
+      "email": "sasasas",
+      "phone": "asasasasas",
+      "id": 2
+    },
+    {
+      "name": "asasas",
+      "email": "asasasa",
+      "phone": "asasas",
+      "id": 3
+    },
+    {
+      "name": "asasa",
+      "email": "sasas",
+      "phone": "asasasas",
+      "id": 4
+    }
+  ]
+}
